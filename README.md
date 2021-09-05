@@ -26,8 +26,8 @@ Program to manage a super market store product and purchasing the product.
 4. prettytable Module
 
 # About Me
-Hello guys my name is Girish Dilip Kolhe currently pursuing my TY Engineering at SGGIE&T,nanded and 
+Hello guys my name is Girish Dilip Kolhe currently pursuing my EXTC Engineering at SGGSIE&T,Nanded and 
 I love to to design new code and develope various type of algorithms to make life easy.
-Also I have intrest in Web Developement.
+Also I have interest in Web Developement.
 # Link
 Linkedin : www.linkedin.com/in/girishkolhe020
