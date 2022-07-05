@@ -22,7 +22,7 @@ Program to manage a super market store product and purchasing the product.
 ## Modules used
 1. time Moudle
 2. random Module
-3. json Modle
+3. json Module
 4. prettytable Module
 
 # About Me
